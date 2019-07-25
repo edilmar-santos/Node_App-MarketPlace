@@ -4,7 +4,7 @@ O que é o Marketplace ?
 
 -Marketplace é uma Api Rest que simula um sistema de anúncio e intenção de aquisição de produtos.
 
-Tecnologias utilizas
+Tecnologias utilizadas
 
 - Node js
 - Yarn
