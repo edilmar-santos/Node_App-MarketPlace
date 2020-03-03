@@ -1,23 +1,20 @@
 # NODE_App-Marketplace
 
-O que é o Marketplace ?
+- Api Rest que simula um sistema de anúncio e intenção de aquisição de produtos.
 
--Marketplace é uma Api Rest que simula um sistema de anúncio e intenção de aquisição de produtos.
+# Tecnologias utilizadas
 
-Tecnologias utilizadas
-
-- Node js
+- Node.js
 - Yarn
 - JWT
-- Mongo DB
+- MongoDB
 - Redis
 - Kue
 - NodeMailer
 - Sentry
 
-Intruções para o uso inicial
+# Instruções de uso
 
 - Nomear o arquivo ".env.example" para ".env"
 - Preencher o arquivo ".env" com os dados correspondentes aos da sua conexão
 - Subir o servidor com o comando "yarn start"
-- Cadastrar um novo usuário por meio de uma requisição POST na rota "http://IPLOCAL:PORTA(preenchida no arquivo '.env')/users"
